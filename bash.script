@@ -1,1 +1,3 @@
 select * from rajesh
+where jaffa=uvnonfi
+run;
