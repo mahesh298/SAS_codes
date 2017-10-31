@@ -8,7 +8,7 @@ run;
 
 proc sql;
 select count(*) from test1;
-quit;
+run;
 
 
 data test2;
